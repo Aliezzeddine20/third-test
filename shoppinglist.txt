@@ -6,3 +6,4 @@ bananas
 cherries
 carrots
 cereal
+watermelon
